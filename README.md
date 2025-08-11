@@ -71,16 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-<!-- 
-Tumhare Suggestions / Ideas Recap
-Table ko separate component ya section banane ka idea (Home se alag).
-
-Single page design ka thought — multiple sections (Home, Table, Contact, Footer).
-
-Kuch websites scrollable zyada hoti hain, to kuch me navigation bar hota hai (tum compare kar rahe ho).
-
-UI modern lagna chahiye, chahe scroll ho ya navigation.
-
-Agar single page me karein to code lengthy ho jayega, is baat ka concern.
-
-Tumne dekha ki multi-component structure clean lagta hai. -->
